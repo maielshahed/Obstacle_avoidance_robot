@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "automatic_smart_car_barrier_project", "automatic_smart_car_barrier_project\automatic_smart_car_barrier_project.cproj", "{EF0CC059-1773-470A-9445-93F022DC7324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0CC059-1773-470A-9445-93F022DC7324}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EF0CC059-1773-470A-9445-93F022DC7324}.Debug|AVR.Build.0 = Debug|AVR
+		{EF0CC059-1773-470A-9445-93F022DC7324}.Release|AVR.ActiveCfg = Release|AVR
+		{EF0CC059-1773-470A-9445-93F022DC7324}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
